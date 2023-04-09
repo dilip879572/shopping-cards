@@ -1,0 +1,17 @@
+.bg-mycolor
+{
+background-color: red !important;
+}
+.text-mycolor
+{
+color: red !important;
+}
+.header
+{
+min-height:70px;
+line-height:70px;
+}
+.nav-link
+{
+color:black;
+}
